@@ -6,7 +6,11 @@ export const Contacts = ({navigation}) => {
         <Button
             title='HOME'
             onPress={()=>{
+<<<<<<< HEAD
                 navigation.navigate('WellcomeJhon');
+=======
+                navigation.navigate('WellcomeNav');
+>>>>>>> 28a2ca23562412a7cf073e6a8596d04bfa56db10
             }}
         />
     </View>
